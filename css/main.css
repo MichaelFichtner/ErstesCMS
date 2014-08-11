@@ -1,0 +1,58 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+    background-color: black;
+}
+
+.col-lg-8 {
+    background-color: #808080;
+    color: gainsboro;
+}
+
+.comi {
+    text-align: right;
+}
+
+.table-responsive {
+    background-color: #222;
+}
+
+.alert-danger {
+   margin-bottom: 0px;
+   padding-bottom: 0px;
+   padding-top: 0px;
+}
+
+#debl {
+background-image: -webkit-linear-gradient(white 20%, #000 80%); 
+background-image: -moz-linear-gradient(white 20%, #000 80%); 
+background-image: -o-linear-gradient(white 20%, #000 80%); 
+background-image: linear-gradient(white 20%, #000 80%);
+
+box-shadow: 5px 4px 4px #626262;
+}
+
+#debl p {
+    color : #953b39;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
